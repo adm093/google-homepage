@@ -1,2 +1,2 @@
 # google-homepage
-My first edit on Google homepage
+This is my attempt at building the Google homepage
